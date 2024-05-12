@@ -42,7 +42,7 @@ This course is part of [CODEBASICS Bootcamp](https://codebasics.io/courses/bootc
   5. Creating Database from an ERD
   6. Insert,Update and Delete
 
-### [5. Case Study: Finanace Analytics with Advanced SQL queries](https://github.com/sushmitafordata/Finance-and-Sales-Analytics_SQL/tree/main)
+### [5. Case Study: Finanace and Sales Analysis with Advanced SQL queries](https://github.com/sushmitafordata/Finance-and-Sales-Analytics_SQL/tree/main)
 
   ### Reports Generated
   
