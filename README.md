@@ -1,4 +1,5 @@
-# SQL-for-Data-Professionals
+# SQL for Data Professionals
+
 This course is part of [CODEBASICS Bootcamp](https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1370) 
 
 ## Course Outline
