@@ -60,8 +60,13 @@ This course is part of [CODEBASICS Bootcamp](https://codebasics.io/courses/bootc
    3. Performance Improvement
    4. Database Views
    5. Windows Function:OVER, ROW_NUMBER, RANK, DENSE_RANK
-     
 
+   ### COMPLETION CERTIFICATE
+
+   
+
+
+![CB-50-168314_page-0001](https://github.com/sushmitafordata/SQL-Bootcamp-with-Case-Study/assets/135410984/ffcc8d64-9025-46f6-ad42-9dbd23cba715)
 
   
 
