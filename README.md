@@ -60,6 +60,9 @@ This course is part of [CODEBASICS Bootcamp](https://codebasics.io/courses/bootc
    3. Performance Improvement
    4. Database Views
    5. Windows Function:OVER, ROW_NUMBER, RANK, DENSE_RANK
+   6. Supply Chain Fundamentals
+   7. Creating Helper Table,Temporary Table & Forecast Accuracy Report
+   8. User account privileges and Database Indexes
 
    ### COMPLETION CERTIFICATE
 
